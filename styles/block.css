@@ -1,0 +1,74 @@
+body {
+  background-color: #F0EADE !important;
+}
+
+.b-titulo {
+  color: #E23125;
+  text-align: center;
+}
+
+.b-lenguajes {
+  padding: 20px;
+  color: #E23125;
+}
+.b-lenguajes h3 {
+  font-size: 38px;
+}
+.b-lenguajes p {
+  font-size: 20px;
+}
+
+.button-whatsapp {
+  background-color: #F9E0E2;
+  border: 1px solid #E23125;
+  border-radius: 50px;
+  font-size: 30px;
+  font-weight: 700;
+  padding: 10px;
+  color: #E23125;
+  margin-top: 20px;
+}
+
+.button-whatsapp:hover {
+  background-color: #E23125;
+  color: white;
+}
+
+.b-iconos {
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  border: 2px solid #E23125;
+}
+.b-iconos img {
+  width: 40px;
+  height: 40px;
+}
+
+.b-porftolio {
+  margin-top: 50px !important;
+  padding: 20px;
+}
+
+.t-portfolio {
+  text-align: center;
+  font-size: 58px;
+  margin: 60px;
+  font-weight: bold;
+  color: #E23125;
+}
+
+.container {
+  margin-top: 40px;
+}
+
+.b-footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.b-footer-__item {
+  flex-wrap: wrap;
+}/*# sourceMappingURL=block.css.map */
